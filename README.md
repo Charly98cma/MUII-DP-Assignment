@@ -1,9 +1,9 @@
 # MUII-DP-Assignment
 ## Students
 
-Miguel Alonso, Carlos - z170243
-Fernández Molleda, Lucía - z170312
-Leira García-Baamonde, Manuel - z170136
++ Miguel Alonso, Carlos - z170243
++ Fernández Molleda, Lucía - z170312
++ Leira García-Baamonde, Manuel - z170136
 
 ## Makefile
 - **$ make install**: install required dependencies
