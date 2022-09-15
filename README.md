@@ -48,3 +48,8 @@ develop this project without that 4th student.
   related to Python. This file is used by the `Makefile`, or it can be used
   manually with the command `pip install -r .requirements.txt` to install said
   dependencies.
+  
+# DICLAIMER
+
+The authors are not responsible for the bad use, copy, or possible consequences related to plagiarism of this code or the contents of this repository.
+Do the assignment, it is very easy, please.
